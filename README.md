@@ -1,2 +1,2 @@
 # countdown
-Um countdown simples usa js puro
+Um countdown simples usando js puro
